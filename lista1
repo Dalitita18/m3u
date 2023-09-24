@@ -291,3 +291,5 @@ http://170.82.37.21:8000/play/a03o/index.m3u8
 http://170.82.37.21:8000/play/a02h/index.m3u8
 #EXTINF:-1,ZooMoo
 http://170.82.37.21:8000/play/a00o/index.m3u8
+#EXTINF:-1,AFIZZIONADOS
+http://45.5.118.226:8000/play/a04y/index.m3u8
